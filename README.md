@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from India</h3><br>
 <p>🔭 I’m I’m a Front-end web developer</p><br>
 
-<p>🌱 I’m currently learning m currently learning Various languages</p><br>
+<p>🌱 I’m currently learning Various languages</p><br>
 
 📫 Connect with me [krishnamverma951@gmail.com](www.linkedin.com/in/krishnam-verma-65a644262)<br>
 
