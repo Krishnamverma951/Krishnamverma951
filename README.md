@@ -3,7 +3,7 @@
 ## Hi 👋 I'am krishnam verma
 
 <h3 align="center">A passionate frontend developer from India</h3><br>
-<p>🔭 I’m I’m a Front-end web developer</p><br>
+<p>🔭 I’m a Front-end web developer</p><br>
 
 <p>🌱 I’m currently learning Various languages</p><br>
 
