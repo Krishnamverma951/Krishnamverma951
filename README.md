@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/4b/bc/5c/4bbc5c7f9365f56b36f3806bb40a1b9a.jpg" width="700" height="400">
+<img src="https://i.pinimg.com/564x/4b/bc/5c/4bbc5c7f9365f56b36f3806bb40a1b9a.jpg" width="700px" height="400px" margin-left="300px">
 
 ## Hi 👋 I'am krishnam verma
 
