@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/krishnamverma" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/krishnamverma?logo=twitter&style=for-the-badge" alt="https://x.com/krishnamverma" /></a> </p>
-
 - 📫 Connect with me [krishnamverma951@gmail.com](www.linkedin.com/in/krishnam-verma-65a644262)
 
 <h3 align="left">Connect with me:</h3>
@@ -20,5 +18,5 @@
 <h3>Gssoc badge</h3>
 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
-<h1 align="center">Hi 👋, I'm Krishnam verma</h1>
--->
+
+
